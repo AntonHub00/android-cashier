@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Cashier</string>
+
+    <string name="hint_price">Enter price</string>
+    <string name="hint_amount">Enter amount</string>
+    <string name="hint_discount">Discount (%)</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="text_bills">Bills</string>
+    <string name="text_coins">Coins</string>
+
+    <string name="change_text">Change:</string>
+    <string name="change_result">0</string>
+    <string name="discounted_money_text">Discount:</string>
+    <string name="discounted_money_result">0</string>
+    <string name="text_result">0</string>
+
+    <string name="text_thounsand">1000:</string>
+    <string name="text_five_hundred">500:</string>
+    <string name="text_two_hundred">200:</string>
+    <string name="text_one_hundred">100:</string>
+    <string name="text_fifty">50:</string>
+    <string name="text_twenty">20:</string>
+    <string name="text_ten">10:</string>
+    <string name="text_five">5:</string>
+    <string name="text_two">2:</string>
+    <string name="text_one">1:</string>
+    <string name="text_cents">0.50:</string>
+
+    <string-array name="discouts">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+</resources>
